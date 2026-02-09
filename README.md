@@ -1,7 +1,4 @@
 60 days coding in Python
 
-[] Day 1
-[] Day 2
-[] Day 3
-[] Day 4
-[] Day 5
+- [x] Day 01 - Hello World
+- [x] Day 02 - Sum two numbers
